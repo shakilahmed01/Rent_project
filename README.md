@@ -1,3 +1,20 @@
+<h1>Documentation</h1>
+<li>Download the code </li>
+<li>run your cmd "php artisan composer install/update" </li>
+<li>Php version 7.0 </li>
+<li>Create database(mysql) </li>
+<li>php artisan migate </li>
+<li>Enjoy </li>
+
+<h2>Feature</h2>
+<li>Otp Verification</li>
+<li>CRUD operation</li>
+<li>Search Query</li>
+<li>Search filter</li>
+<li>Search With Spatie /multiple </li>
+<li>Rest Api </li>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
