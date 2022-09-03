@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?xl3vbi');
+  src:  url('../fonts/icomoon.eot?xl3vbi#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?xl3vbi') format('truetype'),
+    url('../fonts/icomoon.woff?xl3vbi') format('woff'),
+    url('../fonts/icomoon.svg?xl3vbi#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}  
+ 
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-room:before {
+  content: "\e900";
+}
+.icon-flat:before {
+  content: "\e901";
+}
+.icon-building:before {
+  content: "\e902";
+}
+.icon-garage:before {
+  content: "\e903";
+}
+.icon-hotel:before {
+  content: "\e904";
+}
+.icon-hostel:before {
+  content: "\e905";
+}
+.icon-resort:before {
+  content: "\e906";
+}
+.icon-office:before {
+  content: "\e907";
+}
+.icon-shop:before {
+  content: "\e908";
+}
+.icon-community_hall:before {
+  content: "\e909";
+}
+.icon-factory:before {
+  content: "\e90a";
+}
+.icon-warehouse:before {
+  content: "\e90b";
+}
+.icon-land:before {
+  content: "\e90c";
+}
+.icon-pond:before {
+  content: "\e90d";
+}
+.icon-swimming_pool:before {
+  content: "\e90e";
+}
+.icon-playground:before {
+  content: "\e90f";
+}
+.icon-shooting_spot:before {
+  content: "\e910";
+}
+.icon-exhibition_center:before {
+  content: "\e911";
+}
+.icon-rooftop:before {
+  content: "\e912";
+}
+.icon-bilboard:before {
+  content: "\e913";
+}
+.icon-picnic-spot:before {
+  content: "\e914";
+}
+.icon-ghat:before {
+  content: "\e915";
+}
+.icon-bars-solid:before {
+  content: "\e916";
+}
+.icon-bell-regular:before {
+  content: "\e917";
+}
+.icon-cog-solid:before {
+  content: "\e918";
+}
+.icon-hamburger_with_search:before {
+  content: "\e919";
+}

@@ -1,0 +1,149 @@
+[data-theme="lite"] .body{
+    background: #ffffff !important;
+}
+[data-theme="lite"] *{
+    color: #000000 !important;
+}
+[data-theme="lite"] .white-text{
+   color: white !important;
+}
+[data-theme="lite"] {
+   background-color: #ffffff !important;
+   color: rgb(0, 0, 0);
+ }
+
+[data-theme="lite"].service_item,
+[data-theme="lite"] .service_item,
+[data-theme="lite"] .service_item_name,
+[data-theme="lite"] .login-wrap-body h3,
+[data-theme="lite"] .checkmark:after,
+[data-theme="lite"] p.card-text,
+[data-theme="lite"] a.dropdown-item,
+[data-theme="lite"] .registration-form-card h2
+
+{
+    color: #000000 !important;
+}
+[data-theme="lite"] .icon-hamburger_with_search,
+[data-theme="lite"] .notification-icon,
+[data-theme="lite"] .setting-icon{
+   color: #ffffff !important;
+
+}
+
+
+
+[data-theme="lite"] .login-wrap-body{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"] .checkbox-primary input:checked ~ .checkmark:after {
+   color: #ff0985 !important;
+}
+[data-theme="lite"] .slider-section{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"] section.ad-card-body{
+   background-color: #ffffff !important;
+   border-radius: 20px;
+   box-shadow: rgba(255, 255, 255, 0.2) 0px 7px 29px 0px !important;
+}
+[data-theme="lite"] .dropdown-menu{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"] .offcanvas{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"] .form-control-placeholder{
+   color: #ff0985 !important;
+   font-weight: bold;
+}
+[data-theme="lite"] .registration-form-card-body fieldset{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"] .form-card{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"] .registration-form-card{
+   background-color: #ffffff !important;
+   box-shadow: rgba(0, 0, 0, 0.911) 0px 3px 8px;
+}
+[data-theme="lite"]  .service-item-anchor{
+   display: inline;
+}
+[data-theme="lite"]  .accordion-button{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"]  .accordion-body{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"]  .main-slider-body{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"]   form.report-form-main span {
+   background-color: #ffffff !important;
+}
+[data-theme="lite"]  form.signin-form input,input.top-searchbar, form.report-form-main input, form.report-form-main select, form.report-form-main option, form.report-form-main textarea, input#min_price, input#max_price   {
+   color: #000000 !important;
+}
+
+[data-theme="lite"] .product-divX{
+   background-color: #ffffff !important;
+}
+[data-theme="lite"] .icon1 div i , [data-theme="lite"] .icon1 div h6{
+   color: #000000 !important;
+}
+[data-theme="lite"] .list-group-item{
+   background-color: #ffffff !important;
+}
+
+[data-theme="lite"] .icon1 div{
+   background-color: #ffffff;
+}
+[data-theme="lite"] .add-cart-btn, .buy-now-btn, .email,
+.add-cart-btn i, .buy-now-btn i, .email i{
+   color: #ffffff !important;
+}
+
+[data-theme="lite"] .post-modal{
+   background-color: #ffffff;
+}
+[data-theme="lite"] .modal-close span{
+   color: #000000;
+}
+[data-theme="lite"] .card-body {
+   background-color: #dddddd;
+   color: #ffffff;
+}
+[data-theme="lite"] .tab-pane   {
+    background-color: #ffffff;
+}
+[data-theme="lite"] .login-form {
+   border-radius: 20px;
+   box-shadow: rgb(255 255 255 / 35%) 0px 5px 15px;
+}
+[data-theme="lite"] .text-color ,[data-theme="lite"] .pricing-header{
+   color: #ffffff;
+}
+[data-theme="lite"] .text-muted {
+   --bs-text-opacity: 1;
+   color: rgb(26, 24, 24)!important;
+}
+
+[data-theme="lite"]   .fw-normal1{
+color: rgb(24, 23, 23);
+}
+[data-theme="lite"] .toast-background{
+   background-color: #ffffff;
+}
+
+[data-theme="lite"] .toast-body h1{
+   color: #ff0985 !important;
+}
+/* Search Result Page */
+[data-theme="lite"] .search_result_card{
+  background-color: #f6f6f6 !important;
+  color: #000 !important;
+}
+[data-theme="lite"] #p6 {
+  background-color:rgba(255,0,255,0.3) !important;
+}
